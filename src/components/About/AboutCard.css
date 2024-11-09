@@ -1,0 +1,35 @@
+.quote-card-view {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .purple {
+    color: #6c63ff;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+    color: #6c63ff;
+    margin-top: 20px;
+  }
+  
+  .details-list {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+  
+  .details-list li {
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  .year {
+    font-weight: bold;
+    color: #333;
+    font-size: 0.9rem;
+  }
+  
